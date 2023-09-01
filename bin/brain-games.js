@@ -2,4 +2,4 @@
 
 import getName from '../src/cli.js';
 
-console.log(getName());
+getName();

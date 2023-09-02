@@ -12,5 +12,5 @@
 <br>
 <a href="https://asciinema.org/a/HOoNMvjtOcv2DtX4wGvBOZzOg">Аскинема Brain Arithmetic Progression</a>
 <br>
-<a href=" https://asciinema.org/a/VKu70y0lytsreQ08IPpd1itOJ">Аскинема Brain Prime</a>
+<a href="https://asciinema.org/a/VKu70y0lytsreQ08IPpd1itOJ">Аскинема Brain Prime</a>
 

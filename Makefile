@@ -18,4 +18,7 @@ brain-calc:
 	
 brain-nod:
 	node bin/brain-nod.js
+	
+brain-arith:
+	node bin/brain-progression.js
 

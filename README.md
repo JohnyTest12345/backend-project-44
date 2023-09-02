@@ -9,4 +9,6 @@
 <a href="https://asciinema.org/a/3A0o04L0Qi4xYPVoQgPFRyYt0">Аскинема Brain Calc</a>
 <br>
 <a href="https://asciinema.org/a/craSScvVsREZ7A53Y5w4KnBPJ">Аскинема Brain NOD</a>
+<br>
+<a href="https://asciinema.org/a/HOoNMvjtOcv2DtX4wGvBOZzOg">Аскинема Brain Arithmetic Progression</a>
 

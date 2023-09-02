@@ -11,4 +11,6 @@
 <a href="https://asciinema.org/a/craSScvVsREZ7A53Y5w4KnBPJ">Аскинема Brain NOD</a>
 <br>
 <a href="https://asciinema.org/a/HOoNMvjtOcv2DtX4wGvBOZzOg">Аскинема Brain Arithmetic Progression</a>
+<br>
+<a href=" https://asciinema.org/a/VKu70y0lytsreQ08IPpd1itOJ">Аскинема Brain Prime</a>
 

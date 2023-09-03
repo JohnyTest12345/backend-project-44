@@ -16,10 +16,10 @@ brain-even:
 brain-calc:
 	node bin/brain-calc.js
 	
-brain-nod:
+brain-gcd:
 	node bin/brain-nod.js
 	
-brain-arith:
+brain-progression:
 	node bin/brain-progression.js
 
 brain-prime:

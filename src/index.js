@@ -27,5 +27,3 @@ export default function getGame(question, task) {
     console.log(`Congratulations, ${name}!`);
   }
 }
-
-

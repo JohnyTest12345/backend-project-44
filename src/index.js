@@ -18,7 +18,7 @@ export default function getGame(question, task) {
       taski = task();
       sum += 1;
     } else {
-      console.log(`'${answer}' is wrong answer ;(. Correct answer was '${taski[1]}'. \nLet's try again, ${name}`);
+      console.log(`'${answer}' is wrong answer ;(. Correct answer was '${taski[1]}'. \nLet's try again, ${name}!`);
       break;
     }
   }
